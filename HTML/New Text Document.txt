@@ -1,0 +1,75 @@
+state = {
+	value: 0,
+	controller: {
+	  increaseBy: 5,
+	  decreaseBy: 5
+	}
+}
+changeIncrease = (value) => {
+	this.setState({
+	  controller: {
+		...this.setState.controller,
+		increaseBy: value
+	  }
+	})
+}
+changeValue = (value) => {
+	this.setState({
+	  value: this.state.value + value
+	})
+}
+
+
+
+
+
+state = {
+	searchTerm: '',
+	user: {},
+	found: false
+}
+this.setState(() => {
+  return {
+	searchTerm
+  }
+})
+this.setState(() => {
+	return {
+	  found: false
+	}
+})
+this.setState({
+	[event.target.name]: event.target.value
+})
+
+
+
+
+
+
+this.setState({
+	skills
+})
+
+
+
+
+
+
+this.setState({
+	...initialState
+})
+
+
+
+
+git lfs track "Codes/All Codes/sql()/Class/Final Project/**"
+git lfs track "Codes/All Codes/sql()/Class/Final Project/rashed_responsive.zip"
+
+git lfs track "*.psd"
+git lfs track "*.mp4"
+git lfs track "*.index"
+
+git lfs track
+git lfs ls-files
+git lfs status

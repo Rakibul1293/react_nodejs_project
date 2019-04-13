@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		html, body {
+			padding: 0;
+			margin: 0;
+		}
+
+		html {
+			background-color: yellow;
+		}
+
+		body {
+			width: 600px;
+			height: 600px;
+			/*padding: 10px;*/
+			margin: 0 auto;
+			background-color: red;
+			font-size: 50px;
+			color: #fff;
+		}
+
+		section {
+			background-color: cyan;
+			border: 1px solid black;
+			padding: 10px;
+			/*width: 500px;
+			height: 500px;*/
+
+			/*width: 500px;
+			float: left;*/
+
+			/*overflow: hidden;*/
+		}
+
+		div {
+			width: 100px;
+			height: 100px;
+			padding: 10px;
+			float: left;
+		}
+		.one {
+			background: blue;
+		}
+		.two {
+			background: green;
+		}
+		.three {
+			background: orange;
+		}
+		.clearFix:after {
+			content: '';
+			display: block;
+			clear: both;
+		}
+		/*.clearBoth {
+			clear: both;
+		}*/
+
+	</style>
+</head>
+<body>
+	<section class="clearFix">
+		<div class="one">1</div>
+		<div class="two">2</div>
+		<div class="three">3</div>
+		<!-- <br class="clearBoth" /> -->
+	</section>
+</body>
+</html>

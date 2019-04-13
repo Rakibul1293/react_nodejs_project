@@ -1,0 +1,136 @@
+﻿How to Implement AJAX ?
+1.	XML HTTP Request : xml http request হচ্ছে সবচেয়ে প্রাচীন, সবচেয়ে পুরাতন, সবচেয়ে simplest ওয়ে এবং এর মাধ্যমে আমরা কাজ করতে পারবো।
+2.	FETCH API : কিন্তু আমরা ব্যবহার করবো fetch api.
+3.	Axios Library : এবং আমরা ব্যবহার করবো axios library.
+4.	jQuery : 
+
+
+প্যারাময় লাইফের প্যারাসিটামল 280
+আদর্শ (৫৪৫, ৫৪৬, ৫৪৭: ফেব্রুয়ারি ৫ থেকে)
+
+হাইজেনবার্গের গল্প 150
+তাম্রলিপি ১৪ নং প্যাভিলিয়নে
+
+স্টুডেন্ট হ্যাকস 225
+ভাল্লাগে না 225
+নেভার স্টপ লার্নিং 203
+ইমোশনাল মার্কেটিং 150
+শরবতে বাজিমাত 113
+পড়ো পড়ো পড়ো 188
+ইমোশনাল মার্কেটিং 150
+গ্রোথ হ্যাকিং মার্কেটিং 113
+
+মন প্রকৌশল স্বপ্ন অনুপ্রেরণা আর জীবন গড়ার ফরমুলা 165
+বিদ্যাকৌশল: লেখাপড়ায় সাফল্যের সহজ ফরমুলা 195
+
+বেসিক টু অ্যাডভান্সড নেটওয়ার্কিং (সিসিএনএ প্রস্তুতিসহ) 263
+হাতেকলমে মেশিন লার্নিং (দ্বিতীয় সংস্করণ) 263
+
+দ্য ফাইভ টেম্পটেশনস অব এ সিইও 316 অন্যরকম প্রকাশনী
+
+মেশিন লার্নিং অ‍্যালগরিদম 210
+জাভা প্রোগ্রামিং 375
+গ্রাফ অ্যালগরিদম 165
+৫২টি প্রোগ্রামিং সমস্যা ও সমাধান 180
+
+
+
+Customer Name: Rakibul Islam
+Merchant: devskill
+Transaction ID: n6fbkNAyRs344AjWfjlTZw
+Total (BDT): ৳ 4,000.00
+
+Presentation Slide
+Theme
+ভাইয়া আমি বিকাশ-এ পেমেন্ট করতে চাইতেসি। বিকাশ-এ কি মার্চেন্ট দ্বারা এজেন্ট অ্যাকাউন্ট কে বোঝায়? আর যদি এজেন্ট অ্যাকাউন্ট হয়, তাহলে ত আমাকে ক্যাশ আউট করতে হবে তাই না? আর কাউন্টার নম্বর ১ দ্বারা কি বোঝালেন ভাইয়া, বুজলাম না, সরি ভাইয়া। 
+হ্যাঁ ভাইয়া, আপনার Dev Skills website-e আছে। ওখানে প্রথমে বিকাশ অ্যাকাউন্ট নাম্বার চায়। ভাইয়া নাম্বার দেয়ার পর, যেভাবে মোবাইলে টাকা  transfer করি, ঠিক সেভাবে টাকা transfer করব? যদি এই রকম-ই হয়, তাহলে তখন সেন্ড মানি করব, নাকি ক্যাশ আউট করব?
+আসসালামু আলাইকুম ভাইয়া, ভাল আছেন? ভাইয়া আমার একটা জিজ্ঞাসা ছিল। ফ্রেশ গ্র্যাজুয়েট রিয়েক্ট ডেভেলপারদের সেলারি সাধারণত কোম্পানিগুলো কত দিতে চায় বা কত দেয়। কারন ভাইয়া আমি একটি কম্পানিতে ইন্টারভিউ এর জন্য প্রিপারেসন নিচ্ছি। ত এই বিষয়ে আগে থেকে একটা ধারনা পাবার জন্নে আপনার কাছে  জানতে চাইলাম। 
+ওহ ভাইয়া, একটা অসাধারণ পয়েন্ট বলেছেন। ধন্যবাদ ভাইয়া আমাকে এই ইম্পরট্যান্ট পয়েন্ট টা ধরিয়ে দেয়ার জন্য। আরও ধন্যবাদ আপনার ইম্পরট্যান্ট সময় আমাকে দেয়ার জন্য।  
+Getonboard.com.bd
+1. (01) JavaScript programmer needed,
+Location: Mirpur 10, 
+Company: IT firm
+Exp: 1-2 year experience 
+Sal: around 30k
+2. (01) PHP programmer needed,
+Location: Banani
+Company: Leading Financial Institute 
+Exp: 0-1 year experience 
+Sal: Negotiable
+Last date of application: 31st January, 2019
+
+
+এন্ডয়েড অ্যাপ ডেভলপের জন্য কোন ল্যাপটপ মডেলটি ভাল হবে?
+At Least:-
+cori5 4th generation processor
+8 gb ram
+hard disk ssd na hole hobe but jdi 128 gb ekta lagie nite 
+paren os r android studio er jonno tahole best hoy
+
+Ram mandatory
+ami ASUS Tuf Gaming series er laptop nilam
+pura rocket e chole 
+Emulator, studio,chrome 
+shob ek sathe chole tao kono hang,lag kissu nai
+
+
+shift+alt+download arrow
+Rest API
+Single Page Application(SPA)
+Progressive Web Application(SWA)
+
+Six Constraints of REST API :
+1. Uniform Interface
+2. Stateless
+3. Cacheable
+4. Client Server
+5. Layered System
+6. Code on Demand (Optional)
+
+এই ৬ টি পয়েন্টের জন্ন্য মেইনলি REST API ইউনিক।
+
+
+
+
+
+Image Address: https://lh4.googleusercontent.com/-dlqNW2EpzRU/VkeTSz0P7QI/AAAAAAAAH-Y/TuAblFSjKr8c-vJhYhNSl21Ib1tE0NkfgCL0BGAYYCw/w713-h535-no/DSC02830.JPG
+
+
+
+
+Information Systems (IS): In IS, there is a greater emphasis on tools, while MIS places more emphasis on business processes and operations.
+Information Technology (IT): IT is similar to IS, but it focuses solely on computers.
+
+
+Application of MIS:
+
+In brief, lets see how a ”Marketing information system” helps a business. 
+A marketing information system (MIS) can be used to be used by marketing managers or researchers to manage an overwhelming flood of information by organizing data in a logical and accessible manner.
+Through this system, a business can monitor its performance in the market and identify obstacles and opportunities with in a defined market. 
+A marketing information system will collect data from inside and outside the business; then it will processes that data to produce relevant information which can be used to support marketing functions. 
+Data processed can be stored for later use; it can be classified or retrieved when needed.
+
+Well established businesses use a combination of high-tech and low-tech solutions to mange the flow of information. 
+The speed at which information flows within and outside a business determines the success of that business, because, all businesses depend on information to make decisions.
+
+
+part 1 to 3
+-----------------------------------
+http://destyy.com/qV2i3p
+http://destyy.com/qV2oq7
+http://destyy.com/qV2oy7
+
+
+how to multiple doc file combine in one doc file
+
+Role's of managers in an organization:
+
+The role of the management information system (MIS) manager is to focus on the organization's information and technology systems. 
+The MIS manager typically analyzes business problems and then designs and maintains computer applications to solve the organization's problems.
+Within companies and large organizations, the department responsible for computer systems is sometimes called the MIS department.
+Other names for MIS include information systems (IS) and information technology (IT).
+
+
+
+ভাইয়া কিছু দিন আগে আপনি আমাদের MIU CSE Cmmunity গ্রপ-এ একটি post দিয়েছিলেন (javascript and php progammer needed), এখন আমার জানার ইচ্ছা ছিল, বাংলাদেশ এর সফটওয়্যার কম্পানিগুলো কি এই টাইপ এর সিভি এলাও করে? ভাইয়া জানার খুব দরকার ছিল তাই জিজ্ঞাসা করলাম।
+ভাইয়া প্রথমেই আপনাকে বিরক্ত করছি বলে ক্ষমা ছেয়ে নিচ্ছি। ভাইয়া আমি fresh graduate. ভাইয়া আমি এখন job এর জন্য প্রেপারেশন নিচ্ছি।  আমি front-end(react) and back-end(node.js) জানি। শেখার জন্য সাধারণত যেই সকল সিম্পল প্রোজেক্ট করা লাগে, ওই সব করে প্রেকটিস করেছি। এখন ভাইয়া interviewer যদি আমাকে প্রশ্ন করেন, "আপনি আমাদের কাছে salary কত এক্সপেক্ট করেন?" তখন আমার salary কত বলা উচিত, আমার সিভি অনুযায়ী। ওনারা জব সারকুলার-এ লিখেছে সেলারি around 30000. আমার সিভি টার স্ক্রীন সট দিলাম নিচে। ভাইয়া kindly যদি একটু বলতেন আমার খুব উপকার হত। 

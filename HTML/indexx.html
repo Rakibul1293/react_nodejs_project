@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        .box1 {
+            height: 200px;
+            width: 200px;
+            color: #fff;
+            font-size: 100px;
+            /*float: left;*/
+            background-color: red;
+            /*background-color: rgba(139, 0, 0, 0.993);*/
+            /*margin-top: 200px;
+            margin-left: 400px;
+            transform: rotate(45deg);
+            position: relative;*/
+        }
+        .box2 {
+            height: 200px;
+            width: 200px;
+            color: #fff;
+            font-size: 100px;
+            /*float: left;*/
+            background-color: cyan;
+            /*background-color: rgba(139, 0, 0, 0.993);*/
+            /*margin-top: 200px;
+            margin-left: 400px;
+            transform: rotate(135deg);
+            position: absolute;*/
+
+            /* top: 0;
+            bottom: 0; */
+            /* right:186px;
+            left: 25px; */
+        }
+         .box3 {
+            height: 200px;
+            width: 200px;
+            color: #fff;
+            font-size: 100px;
+            /*float: left;*/
+            /*clear: left;*/
+            background-color: blue;
+            /*background-color: rgba(139, 0, 0, 0.993);*/
+            /*margin-top: 200px;
+            margin-left: 400px;
+            transform: rotate(135deg);
+            position: absolute;
+            top: 0;
+            bottom: 0;*/
+        } 
+		
+		div {
+			border: 5px green solid;
+		}
+		.div-Width {
+			width: 500px;
+		}
+		.div-MaxWidth {
+			max-width: 500px;
+		}
+		.div-MinWidth {
+			min-width: 500px;
+		} 
+		
+		.panel {
+			height: 100px;
+			box-sizing: border-box;
+			width: 100%;
+		}
+		.panel.green {
+			background-color: tomato;
+			border: 10px solid green;
+			min-width: 600px;
+			max-width: 1000px;
+		}
+		.panel.blue {
+			background-color: yellowgreen;
+			border: 10px solid blue;
+			min-height: 200px;
+			max-height: 200px;
+		}
+    </style>
+	<script type="text/javascript" src="scripts/index.js"></script>
+	<script type="text/javascript" src="scripts/index(Map,Filter,Reduce).js"></script>
+	<!-- live-server Public -->
+</head>
+<body>
+    
+	<div class="box1">1</div><br />
+    <div class="box2">2</div><br />
+    <div class="box3">3</div><br />
+    
+	<div class="div-Width">This div element has a width of 500px.</div><br />
+	<div class="div-MaxWidth">This div element has a max width of 500px.</div><br />
+	<div class="div-MinWidth">This div element has a min width of 500px.</div><br />
+	
+	<div class="panel green"></div><br />
+	<div class="panel blue"></div><br />
+    
+</body>
+</html>
