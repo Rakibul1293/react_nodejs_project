@@ -177,10 +177,10 @@ const login = (req, res, next) => {
                         token
                     })
                 }
-                // console.log(result)
+
                 return res.status(401).json({
                     message: 'Authentication Failed'
-                })               
+                })            
             })
         })
         .catch(error => {
