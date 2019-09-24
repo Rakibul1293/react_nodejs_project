@@ -1,0 +1,25 @@
+{
+  "author": "",
+  "dependencies": {
+    "bcrypt": "3.0.6",
+    "express": "4.17.1",
+    "joi": "14.3.1",
+    "jsonwebtoken": "8.5.1",
+    "mongoose": "5.7.1",
+    "passport": "0.4.0",
+    "passport-jwt": "4.0.0"
+  },
+  "description": "",
+  "devDependencies": {
+    "ws": "7.1.2"
+  },
+  "keywords": [
+  ],
+  "license": "ISC",
+  "main": "server.js",
+  "name": "rest_api_1",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "version": "1.0.0"
+}
