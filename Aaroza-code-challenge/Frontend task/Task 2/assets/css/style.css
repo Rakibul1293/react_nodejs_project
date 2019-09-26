@@ -10,20 +10,6 @@ body{
     font-size: 18px;
     line-height: 24px;
 }
-.sec-padding{
-    padding: 100px 0;
-}
-.section-heading h2{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 50px;
-    font-weight: 600;
-}
-.section-heading p{
-    font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
-    line-height: 24px;
-}
-
 /********************
 *   Header Section  *
 *********************/
