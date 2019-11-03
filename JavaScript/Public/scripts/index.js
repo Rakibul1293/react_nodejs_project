@@ -273,11 +273,13 @@ console.log(phraseSplitterEs6("ES6 Awesomeness"));  // ["ES6", "Awesomeness"]
 // No Parameters
 //ES5
 var docLogEs5 = function docLog() {
-    console.log(document);
+    // console.log(document);
 };
 docLogEs5();
 //ES6
-var docLogEs6 = () => { console.log(document); };
+var docLogEs6 = () => { 
+	// console.log(document); 
+};
 docLogEs6(); // #document... <html> ….
 
 
@@ -432,6 +434,7 @@ function ReturnConstructor(arg){
 }
 
 function NormalConstructor(arg){
+	console.log(this);
     // Private variable.
     var privateVar = "can't touch this, normal ctor";
 
@@ -440,7 +443,7 @@ function NormalConstructor(arg){
 		console.log("NormalConstructor: arg was: %s", arg);
 		console.log(this);
 	};
-	console.log(this);
+	// console.log(this);
 }
 
 
@@ -564,6 +567,9 @@ function doSomething() {
 var something = function() {
 	console.log("Express Something");
 }
+
+console.log(something);
+something();
 
 var runIt = function(a) {
 	console.log(a);
