@@ -1,0 +1,122 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\Rakibul Islam\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js install
+
+PATH: 
+  C:\cmder\vendor\conemu-maximus5\ConEmu\Scripts;
+  C:\Program Files (x86)\Common Files\Oracle\Java\javapath;
+  C:\ProgramData\Oracle\Java\javapath;
+  C:\Program Files (x86)\Intel\iCLS Client\;
+  C:\Program Files\Intel\iCLS Client\;
+  C:\Windows\system32;C:\Windows;
+  C:\Windows\System32\Wbem;
+  C:\Windows\System32\WindowsPowerShell\v1.0\;F:\xampp\php;
+  C:\Users\Rakibul Islam\AppData\Local\Programs\Python\Python36;
+  C:\ProgramData\ComposerSetup\bin;C:\User\Rakibul Islam\cmder;
+  C:\MinGW\bin;
+  C:\Program Files\Microsoft VS Code\bin;
+  C:\cmder\Cmder.exe;
+  C:\cmder\vendor\git-for-windows\bin;
+  C:\Program Files\MongoDB\Server\4.0\bin\;
+  C:\Program Files\Git LFS;C:\Program Files\Sublime Text 5\sublime_text.exe;
+  C:\Program Files (x86)\Brackets\command;
+  C:\ProgramData\chocolatey\bin;
+  C:\Windows\System32\WindowsPowerShell\v1.0\;
+  C:\Program Files\heroku\bin;
+  C:\Program Files\Java\jdk1.8.0_181\bin;
+  C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;
+  C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;
+  C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;
+  C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;
+  C:\Anaconda3;C:\Anaconda3\Library\mingw-w64\bin;
+  C:\Anaconda3\Library\usr\bin;
+  C:\Anaconda3\Library\bin;
+  C:\Anaconda3\Scripts;
+  C:\Users\Rakibul Islam\.windows-build-tools\python27\;
+  C:\Users\Rakibul Islam\AppData\Roaming\npm\node_modules\npm\node_modules\npm-lifecycle\node-gyp-bin;
+  C:\Users\Rakibul Islam\AppData\Roaming\npm\node_modules\windows-build-tools\node_modules\.bin;
+  C:\Users\Rakibul Islam\AppData\Roaming\npm\node_modules\.bin;
+  C:\cmder\bin;
+  C:\cmder\vendor\conemu-maximus5\ConEmu\Scripts;
+  C:\cmder\vendor\conemu-maximus5;
+  C:\cmder\vendor\conemu-maximus5\ConEmu;
+  C:\ProgramData\Oracle\Java\javapath;
+  C:\Program Files (x86)\Intel\iCLS Client\;
+  C:\Program Files\Intel\iCLS Client\;
+  C:\Windows\system32;C:\Windows;
+  C:\Windows\System32\Wbem;
+  C:\Windows\System32\WindowsPowerShell\v1.0\;
+  C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;
+  C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;
+  C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;
+  C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;
+  F:\xampp\php;
+  C:\Users\Rakibul Islam\AppData\Local\Programs\Python\Python36;
+  C:\ProgramData\ComposerSetup\bin;
+  C:\Program Files\nodejs\;
+  C:\User\Rakibul Islam\cmder;
+  C:\MinGW\bin;
+  C:\Program Files\Microsoft VS Code\bin;
+  C:\cmder\vendor\git-for-windows\bin;
+  C:\Program Files\MongoDB\Server\4.0\bin;
+  C:\Program Files\MongoDB\Server\4.0\bin;
+  C:\Program Files\Git LFS;
+  C:\Users\Rakibul Islam\AppData\Roaming\Composer\vendor\bin;
+  C:\Users\Rakibul Islam\.babun;
+  C:\cmder\vendor\git-for-windows\cmd;
+  C:\cmder\vendor\git-for-windows\mingw64;
+  C:\cmder\vendor\git-for-windows\usr\bin;
+  C:\cmder;
+  C:\Users\Rakibul Islam\AppData\Roaming\npm
+
+Yarn version: 
+  1.16.0
+
+Node version: 
+  12.4.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/core-js/-/core-js-2.6.10.tgz: ESOCKETTIMEDOUT
+      at ClientRequest.<anonymous> (C:\Users\Rakibul Islam\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:130217:19)
+      at Object.onceWrapper (events.js:288:20)
+      at ClientRequest.emit (events.js:200:13)
+      at TLSSocket.emitRequestTimeout (_http_client.js:675:40)
+      at Object.onceWrapper (events.js:288:20)
+      at TLSSocket.emit (events.js:200:13)
+      at TLSSocket.Socket._onTimeout (net.js:432:8)
+      at listOnTimeout (internal/timers.js:531:17)
+      at processTimers (internal/timers.js:475:7)
+
+npm manifest: 
+  {
+    "name": "marioplan",
+    "version": "0.1.0",
+    "private": true,
+    "dependencies": {
+      "firebase": "^5.3.0",
+      "moment": "^2.22.2",
+      "react": "^16.4.1",
+      "react-dom": "^16.4.1",
+      "react-redux": "^5.0.7",
+      "react-redux-firebase": "^2.1.6",
+      "react-router-dom": "^4.3.1",
+      "react-scripts": "1.1.4",
+      "redux": "^4.0.0",
+      "redux-firestore": "^0.5.7",
+      "redux-thunk": "^2.3.0"
+    },
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test --env=jsdom",
+      "eject": "react-scripts eject"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
